@@ -47,3 +47,16 @@ Open the excel_dashboard.xlsx file in Microsoft Excel.
 Use the slicers and filters to interact with the data.
 
 Update the raw data sheet to reflect new data – the dashboard updates automatically.
+
+![Screenshot 2025-06-01 120715](https://github.com/user-attachments/assets/da08bc79-b185-4da0-9680-74f413b301c2)
+
+![Screenshot 2025-06-01 120734](https://github.com/user-attachments/assets/301d9d17-0375-4e3d-acbd-c4a32e1d3046)
+
+![Screenshot 2025-06-01 120759](https://github.com/user-attachments/assets/0d00be12-0ae8-4aa3-8c55-74b7ca7b7237)
+
+![Uploading Screenshot 2025-06-01 120822.png…]()
+
+
+
+
+
